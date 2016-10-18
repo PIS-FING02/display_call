@@ -51,7 +51,7 @@ function abrirTXT()
 		}
 
 
-		var path='blobs/iddisplay0.txt';
+		var path='blobs/iddisplay1.txt';
 
 
 		$.ajax({
@@ -88,7 +88,7 @@ function abrirTXT()
 				}
 			},
 			error: function() {
-					console.log("eeeeerrrrrorr");
+				console.log("eeeeerrrrrorr");
 					timedRefresh(30000);
 				}
 		});

@@ -2,7 +2,7 @@
     <wb-module deploy-name="DisplayJSF">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/JavaSource"/>
-        <property name="context-root" value="DisplayJSF"/>
         <property name="java-output-path" value="/DisplayJSF/WebContent/WEB-INF/classes"/>
+        <property name="context-root" value="DisplayJSF"/>
     </wb-module>
 </project-modules>
