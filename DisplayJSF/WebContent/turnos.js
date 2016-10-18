@@ -51,7 +51,7 @@ function abrirTXT()
 		}
 
 
-		var path='blobs/geoturnosD' + nroXML  + '.txt';
+		var path='/home/ubuntu/EAP-6.4.0/modules/displays/display1.txt';
 
 
 		$.ajax({
